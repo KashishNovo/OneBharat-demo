@@ -108,7 +108,7 @@ function App() {
       {/* FOOTER */}
       <footer className={styles.footer}>
         <div className={styles.footerLogo}>
-          <img src="/assets/ob-logo/logo.png" alt="One Bharat" className={styles.logoImg} />
+          <img src="https://one-bharat-demo-50a5g4mlt-kashishs-projects-9dd6a532.vercel.app/" alt="One Bharat" className={styles.logoImg} />
         </div>
         <div className={styles.footerSocials}>
           <a href="#" className={styles.socialIcon} aria-label="Facebook">
