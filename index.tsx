@@ -34,7 +34,7 @@ function App() {
       <nav className={styles.navbar}>
         <a href="/" className={styles.navLogo}>
           <div className={styles.logoText}>
-            <img src="/image.png" alt="One Bharat" className={styles.logoImg} />
+            <img src="https://onebharat.co/assets/ob-logo/logo.png" alt="One Bharat" className={styles.logoImg} />
           </div>
         </a>
         <ul className={styles.navLinks}>
